@@ -1,0 +1,17 @@
+/**************************
+        UTILS
+****************************/
+
+
+/**************************
+        HEADER
+****************************/
+
+.top-header {
+    background-color: black;
+}
+
+.top-right-logo>img {
+    width: 70px;
+    vertical-align: baseline;
+}
