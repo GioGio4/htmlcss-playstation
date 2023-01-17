@@ -1,6 +1,15 @@
 /**************************
+        RESET
+****************************/
+img {
+    max-width: 100%;
+}
+
+
+/**************************
         UTILS
 ****************************/
+
 
 
 /**************************
@@ -14,4 +23,21 @@
 .top-right-logo>img {
     width: 70px;
     vertical-align: baseline;
+}
+
+/* Jumbotron */
+
+.jumbotron {
+    height: 55vh;
+    background-image: url(/img/img/jumbo-bg.png);
+    background-position-x: center;
+    background-repeat: repeat-x;
+}
+
+.text-jumbotron {
+    height: 100%;
+}
+
+.text-jumbotron>.row {
+    min-height: 100%;
 }
