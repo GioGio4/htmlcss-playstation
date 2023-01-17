@@ -62,3 +62,7 @@ img {
     background-position-x: center;
     background-size: cover;
 }
+
+.new-release {
+    background-color: #1f1f1f;
+}
