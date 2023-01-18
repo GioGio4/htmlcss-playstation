@@ -77,7 +77,8 @@ a {
 /* Jumbotron */
 
 .jumbotron {
-    height: 70vh;
+    height: 78vh;
+    margin-top: 107px;
     background-image: url(/img/img/jumbo-bg.png);
     background-position-x: center;
     background-size: cover;
