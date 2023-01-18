@@ -114,6 +114,7 @@ a {
 
 .opacity-product {
     filter: opacity(80%);
+    border-bottom: 2px solid transparent;
 }
 
 .opacity-product:hover {
