@@ -92,6 +92,17 @@ a {
     min-height: 100%;
 }
 
+.link-card-jumbotron .col-6:hover {
+    border: 2px solid #0d6efd;
+    border-radius: 20px;
+}
+
+.link-card-jumbotron .col-6:hover img {
+    filter: brightness(150%);
+    filter: contrast(150%);
+}
+
+
 /**************************
         MAIN
 ****************************/
@@ -116,6 +127,12 @@ a {
 
 .new-release {
     background-color: #1f1f1f;
+}
+
+.second-jumbotron .col-12>h2,
+.second-jumbotron .col-12>p {
+
+    filter: drop-shadow(200px);
 }
 
 /* Playstation Plus Section */
